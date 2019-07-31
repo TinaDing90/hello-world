@@ -1,5 +1,5 @@
 # hello-world
 new repository
 
-Hi everyone
+Hi Everyone,
 This is Tina
